@@ -8,7 +8,7 @@ Developing a "coinage" code module that is capable of calculating the total valu
 - Practice creating and using code modules and refactoring using modern JavaScript syntax
 - Gain experience using Fastify with the GET verb, routes, and query parameters
 
-[Function code](p3-module.js) and [server code](p3-server.js)
+[Function code](p3-module.js), [server code](p3-server.js), and
 [Github repo](https://github.com/Jiah-design/cit281-p3)
 
 
