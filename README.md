@@ -10,7 +10,7 @@ Developing a "coinage" code module that is capable of calculating the total valu
 
 [Function code](https://github.com/Jiah-design/cit281-p3/blob/main/p3-module.js) and [server code](https://github.com/Jiah-design/cit281-p3/blob/main/p3-server.js)
 
-Coinage Webpage
+Coinage Webpage  
 ![Screenshot](CoinageWebSite.png)
 
 
