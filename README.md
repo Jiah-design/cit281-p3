@@ -9,6 +9,7 @@ Developing a "coinage" code module that is capable of calculating the total valu
 - Gain experience using Fastify with the GET verb, routes, and query parameters
 
 [Function code](p3-module.js) and [server code](p3-server.js)
+[Github repo](https://github.com/Jiah-design/cit281-p3)
 
 
 
